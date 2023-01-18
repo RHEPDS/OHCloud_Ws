@@ -77,3 +77,6 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 16:00		Q & A next steps and closing
 
+		DO380 Red Hat OpenShift Administration III: Scaling Kubernetes Deployments in the Enterprise
+
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800100
