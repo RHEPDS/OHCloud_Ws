@@ -35,13 +35,15 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 14:45		Installing a 2nd Cluster on a HyperScaler with ACM
 
-15:15		Intro into LAB / HomeWork
+15:15		Demo other Features (Application distribution, Submariner, Compliance ,...) with the OpenHybridCloud Demo 
+
+16:30		Intro into LAB / HomeWork
 
 		Red Hat Advanced Cluster Management for Kubernetes Foundations
 				
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
-15:30		Start HomeWork
+16:45		Start HomeWork
 
 
 ### Day 2:
@@ -59,17 +61,19 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 11:45		Installing QUAY on 2nd Cluster
 
-12:00		BREAK
+12:00		Demoining QUAY with the OpenHybridCloud Demo
 
-13:00		Application management for the Hybrid Cloud
+12:30		BREAK
 
-13:45 		Networking technologies that will work with the challenges of Open Hybrid Cloud Solutions
+13:30		Advanced Cluster Security Overview
 
-14:30		Intro into optional HomeWork / Certification
+14:30		Demoing ACS with the OpenHybridCloud Demo
+
+15:30		Intro into optional HomeWork / Certification
 
 		Red Hat OpenShift Data Foundation for technical Sales (2 Hours)
 
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599	
 
-14:45		Q & A next steps and closing
+16:00		Q & A next steps and closing
 
