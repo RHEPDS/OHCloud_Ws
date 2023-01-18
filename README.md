@@ -5,8 +5,6 @@
 # Architecture Workshop
 ## remote version v0223
 
-## BJ Link https://bluejeans.com/787274307/7184
-
 ## https://www.menti.com/b9a8cuw2co
 
 The purpose of this workshop is to show attendees the benefits of Red Hat ´ Open Hybrid Cloud architecture. Based on actual use cases the attendees will get insight into how to architect and build cloud solutions scaling from the on-premise environments out to geographical distributed public cloud environments.
@@ -14,7 +12,6 @@ The purpose of this workshop is to show attendees the benefits of Red Hat ´ Ope
 The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses also multiple cloud environments.
 
 ## Agenda:
-
 
 ### Day 1:
 
@@ -40,9 +37,8 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 15:15		Intro into LAB / HomeWork
 
-		Red Hat Advanced Cluster Management for Kubernetes
-		
-		
+		Red Hat Advanced Cluster Management for Kubernetes Foundations
+				
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
 15:30		Start HomeWork
