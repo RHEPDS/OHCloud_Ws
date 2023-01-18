@@ -61,13 +61,13 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 11:45		Installing QUAY on 2nd Cluster
 
-12:00		Demoining QUAY with the OpenHybridCloud Demo
+12:00		Demo QUAY with the OpenHybridCloud Demo
 
 12:30		BREAK
 
 13:30		Advanced Cluster Security Overview
 
-14:30		Demoing ACS with the OpenHybridCloud Demo
+14:30		Demo ACS with the OpenHybridCloud Demo
 
 15:30		Intro into optional HomeWork / Certification
 
