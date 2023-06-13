@@ -1,4 +1,4 @@
-<img src="https://github.com/RHEPDS/OHCloud_Ws/logo.png" width="450" height="120">
+<img src="https://github.com/RHEPDS/OHCloud_Ws/blob/main/logo.png" width="450" height="120">
 
 # Red Hat Open Hybrid Cloud 
 # Architecture Workshop
