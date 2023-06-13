@@ -1,9 +1,8 @@
 <img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
-
 # Red Hat Open Hybrid Cloud 
 # Architecture Workshop
-## remote version v0223
+## remote version v0623
 
 ## https://www.menti.com/b9a8cuw2co
 
