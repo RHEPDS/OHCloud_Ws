@@ -2,7 +2,7 @@
 
 # Red Hat Open Hybrid Cloud 
 # Architecture Workshop
-## remote version v0623
+## remote version v0823
 
 ## https://www.menti.com/b9a8cuw2co
 
