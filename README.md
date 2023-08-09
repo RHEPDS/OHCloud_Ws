@@ -36,7 +36,7 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 15:15		Demo other Features (Application distribution, Submariner, Compliance ,...) with the OpenHybridCloud Demo 
 
-16:30		Intro into LAB / HomeWork
+15:30		Intro into LAB / HomeWork
 
 		Red Hat Advanced Cluster Management for Kubernetes Foundations
 				
