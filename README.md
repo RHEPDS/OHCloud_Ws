@@ -69,13 +69,11 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 14:30		Demo ACS with the OpenHybridCloud Demo
 
 15:30		Intro into optional HomeWork / Certification
+		
+  		DO480 Multicluster Management with Red Hat OpenShift Platform Plus
 
-		Red Hat OpenShift Data Foundation for technical Sales (2 Hours)
-
-		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599	
-
+		https://connect.redhat.com/en/training/course-catalog?m=c&id=45314155&utm_source=LOC
+	
 16:00		Q & A next steps and closing
 
-		DO380 Red Hat OpenShift Administration III: Scaling Kubernetes Deployments in the Enterprise
-
-		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800100
+		
