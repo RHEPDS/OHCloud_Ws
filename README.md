@@ -34,13 +34,11 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 14:45		Installing a 2nd Cluster on a HyperScaler with ACM
 
-15:15		Demo other Features (Application distribution, Submariner, Compliance ,...) with the OpenHybridCloud Demo 
+15:15		Demo other Features (Application distribution, Submariner, Compliance,...) with the OpenHybridCloud Demo 
 
-15:30		Intro into LAB / HomeWork
+15:30		DO 480 Multicluster Management with Red Hat OpenShift Platform Plus 
 
-		Red Hat Advanced Cluster Management for Kubernetes Foundations
-				
-		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+  		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
 
 16:45		Start HomeWork
 
@@ -72,7 +70,7 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 		
   		DO480 Multicluster Management with Red Hat OpenShift Platform Plus
 
-		https://connect.redhat.com/en/training/course-catalog?m=c&id=45314155&utm_source=LOC
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
 	
 16:00		Q & A next steps and closing
 
